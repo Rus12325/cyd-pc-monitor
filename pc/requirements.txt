@@ -1,0 +1,5 @@
+pyserial>=3.5
+psutil>=5.9
+# Windows: чтение датчиков через LibreHardwareMonitor / OpenHardwareMonitor (WMI)
+wmi>=1.5 ; sys_platform == 'win32'
+pywin32>=306 ; sys_platform == 'win32'

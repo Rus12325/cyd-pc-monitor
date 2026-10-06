@@ -1,0 +1,15 @@
+.pio/
+__pycache__/
+*.pyc
+.vscode/
+.freebuff/
+
+# PyInstaller output - rebuild with pc/build_exe.bat
+pc/build/
+pc/dist/
+pc/_bundle/
+
+# PyInstaller output - rebuild with pc/build_exe.bat
+pc/build/
+pc/dist/
+pc/_bundle/
